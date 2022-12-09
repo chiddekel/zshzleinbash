@@ -1,2 +1,2 @@
 # BLI - ZSH ZLE in BASH.
-Start developing ZSH ZLE migration to BASH.
+Start developing ZSH ZLE in BASH.
